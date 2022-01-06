@@ -1,0 +1,14 @@
+.subcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+}
+
+.heroflex1 {
+    flex: 1;
+}
+
+.heroflex2 {
+    flex: 1;
+}

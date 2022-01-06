@@ -1,0 +1,23 @@
+.titlecontainer {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.title {
+    font-family: Georgia, serif;
+    font-size: 7vw;
+    font-weight: bold;
+}
+
+.position1 {
+    flex: 1;
+    margin-top: 10vw;
+    color: teal;
+}
+
+.position2 {
+    flex: 1;
+    margin-top: -17vw;
+}
+

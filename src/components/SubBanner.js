@@ -5,8 +5,10 @@ function SubBanner() {
         <div>
             <ul>
                 <li>About</li>
-                <li>Portfolio</li>
                 <li>Services</li>
+                <li>
+                    <a href="#portfolio">Portfolio</a> 
+                </li>
                 <li>Shop</li>
                 <li>Contact</li>
             </ul>

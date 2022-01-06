@@ -23,6 +23,11 @@ li {
     width: 13%;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 @media screen and (max-width: 400px) {
     
     ul{

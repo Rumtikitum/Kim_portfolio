@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+.bannercontainer {
+    width: 100%;
+}
+
 header {
     position: absolute;
     top: 8px;

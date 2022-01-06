@@ -4,7 +4,7 @@ import SubBanner from "./SubBanner";
 
 function Banner() {
     return (
-        <div className="container">
+        <div className="container bannercontainer">
             <img src={bannerkim} alt="banner art"/>
             <header>Kharybdys</header>
             <SubBanner></SubBanner>
