@@ -16,8 +16,16 @@ ul {
 
 li {
     display: inline-block;
-    padding: 5px;
+    padding: 5px,4px;
     background-color: black;
+    border-radius: 5px;
     margin: 5px;
     width: 13%;
+}
+
+@media screen and (max-width: 400px) {
+    
+    ul{
+        position: relative
+    }
 }
