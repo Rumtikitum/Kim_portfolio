@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Kim_portfolio/static/css/main.2aacf267.css",
+    "main.css": "/Kim_portfolio/static/css/main.dbc92918.css",
     "main.js": "/Kim_portfolio/static/js/main.02b5bb4b.js",
     "static/media/bannerkim.jpg": "/Kim_portfolio/static/media/bannerkim.2fb45303cd91dee644c1.jpg",
     "index.html": "/Kim_portfolio/index.html",
-    "main.2aacf267.css.map": "/Kim_portfolio/static/css/main.2aacf267.css.map",
+    "main.dbc92918.css.map": "/Kim_portfolio/static/css/main.dbc92918.css.map",
     "main.02b5bb4b.js.map": "/Kim_portfolio/static/js/main.02b5bb4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aacf267.css",
+    "static/css/main.dbc92918.css",
     "static/js/main.02b5bb4b.js"
   ]
 }
