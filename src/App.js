@@ -6,6 +6,7 @@ import Divider from "./components/Divider";
 import './App.css';
 import Works from "./components/Works/Works";
 import Services from "./components/Services/Services";
+import Description from "./components/Description/Description";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Content></Content>
       <Works></Works>
       <Services></Services>
+      <Description></Description>
     </div>
   );
 }

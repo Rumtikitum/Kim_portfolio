@@ -10,14 +10,16 @@ function SubBanner() {
                     </a>
                 </li>
                 <li>
-                    <a>
+                    <a href="#services">
                     Services
                     </a>
                 </li>
                 <li>
                     <a href="#portfolio">My Work</a> 
                 </li>
-                <li>Shop</li>
+                <li>
+                    <a href="https://twitter.com/kharybdys/media">Twitter</a>
+                </li>
                 <li>
                     <a href="mailto:rtauc001@gmail.com">Contact</a>
                 </li>
