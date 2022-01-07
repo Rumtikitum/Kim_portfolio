@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/Kim_portfolio/static/css/main.02231aba.css",
-    "main.js": "/Kim_portfolio/static/js/main.cf59cb63.js",
+    "main.css": "/Kim_portfolio/static/css/main.27155ce8.css",
+    "main.js": "/Kim_portfolio/static/js/main.3825554e.js",
+    "static/media/knight.jpg": "/Kim_portfolio/static/media/knight.49631e987d3669c55806.jpg",
+    "static/media/kat.jpg": "/Kim_portfolio/static/media/kat.2f3282a0cc1b1600819b.jpg",
     "static/media/fanart.jpg": "/Kim_portfolio/static/media/fanart.5e143aba956d86d22816.jpg",
     "static/media/firelord.jpg": "/Kim_portfolio/static/media/firelord.42d3e1de9daaa2513d9b.jpg",
+    "static/media/services.jpg": "/Kim_portfolio/static/media/services.5c9054d54a0db089d7b9.jpg",
+    "static/media/angel.jpg": "/Kim_portfolio/static/media/angel.7483e44e9b8fa1570b3d.jpg",
     "static/media/bannerkim.jpg": "/Kim_portfolio/static/media/bannerkim.2fb45303cd91dee644c1.jpg",
     "static/media/Kim.jpg": "/Kim_portfolio/static/media/Kim.505137e4a9ef429ac737.jpg",
+    "static/media/sketch.jpg": "/Kim_portfolio/static/media/sketch.24ea13be9da798998144.jpg",
     "index.html": "/Kim_portfolio/index.html",
-    "main.02231aba.css.map": "/Kim_portfolio/static/css/main.02231aba.css.map",
-    "main.cf59cb63.js.map": "/Kim_portfolio/static/js/main.cf59cb63.js.map"
+    "main.27155ce8.css.map": "/Kim_portfolio/static/css/main.27155ce8.css.map",
+    "main.3825554e.js.map": "/Kim_portfolio/static/js/main.3825554e.js.map"
   },
   "entrypoints": [
-    "static/css/main.02231aba.css",
-    "static/js/main.cf59cb63.js"
+    "static/css/main.27155ce8.css",
+    "static/js/main.3825554e.js"
   ]
 }
