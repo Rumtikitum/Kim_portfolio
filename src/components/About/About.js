@@ -4,7 +4,7 @@ import AboutContent from "./AboutContent";
 
 function About() {
     return (
-        <div className="aboutcontainer">
+        <div className="aboutcontainer" id="about">
             <AboutContent className="about1"></AboutContent>
             <AboutArt className="about2"></AboutArt>
         </div>

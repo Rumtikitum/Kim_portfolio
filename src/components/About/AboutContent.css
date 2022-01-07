@@ -1,8 +1,6 @@
 .aboutcontcontainer {
     margin-left: 2vw;
-    margin-top: 8vw;
-    margin-right: 3vw;
-
+    
 }
 
 .divider {
@@ -13,9 +11,11 @@
 
 .aboutpara {
     font-size: 2vw;
+    
 }
 
 #abouttitle {
     color: teal;
     border-bottom: solid .2vw teal;
 }
+
