@@ -15,7 +15,7 @@ function SubBanner() {
                     </a>
                 </li>
                 <li>
-                    <a href="#portfolio">Portfolio</a> 
+                    <a href="#portfolio">My Work</a> 
                 </li>
                 <li>Shop</li>
                 <li>
