@@ -1,0 +1,15 @@
+.aboutcontainer {
+    display: flex;
+}
+
+.about1 {
+    flex: 1;
+}
+
+.about2 {
+    flex: 1;
+}
+
+.divider {
+    border-bottom: solid 1vw black;
+}
