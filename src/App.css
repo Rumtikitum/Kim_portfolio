@@ -1,0 +1,9 @@
+.arty a:hover {
+    filter: brightness(110%);
+    }
+
+
+.underbanner li:hover {
+    background-color: white;
+    color: teal;
+    }

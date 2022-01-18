@@ -7,6 +7,7 @@ import './App.css';
 import Works from "./components/Works/Works";
 import Services from "./components/Services/Services";
 import Description from "./components/Description/Description";
+import Tail from "./components/Tail/Tail";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Works></Works>
       <Services></Services>
       <Description></Description>
+      <Tail></Tail>
     </div>
   );
 }

@@ -3,26 +3,22 @@ import "./SubBanner.css"
 function SubBanner() {
     return (
         <div>
-            <ul>
-                <li>
-                    <a href="#about">
-                    About
-                    </a>
-                </li>
-                <li>
-                    <a href="#services">
+            <ul className="underbanner">
+                <a href="#about"><li>About</li></a>
+                <a href="#services"><li>
+                    
                     Services
-                    </a>
-                </li>
-                <li>
-                    <a href="#portfolio">My Work</a> 
-                </li>
-                <li>
-                    <a href="https://twitter.com/kharybdys/media">Twitter</a>
-                </li>
-                <li>
-                    <a href="mailto:rtauc001@gmail.com">Contact</a>
-                </li>
+                    
+                </li></a>
+                <a href="#portfolio"><li>
+                    My Work 
+                </li></a>
+                <a href="https://twitter.com/kharybdys/media"><li>
+                    Twitter
+                </li></a>
+                <a href="https://twitter.com/kharybdys/media"><li>
+                    Contact
+                </li></a>
             </ul>
         </div>
     );

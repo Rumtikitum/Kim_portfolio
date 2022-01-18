@@ -1,3 +1,30 @@
 .description{
-    height: 100vh;
+    display: flex;
 }
+
+.describe {
+    flex: 1;
+    padding: 2vw;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.describeart {
+    flex: 1;
+    padding-right: 2vw;
+}
+
+.servicetitle {
+    margin-bottom: 1vh;
+    font-size: 6vw;
+}
+
+.service {
+    margin-bottom: 3vh;
+    font-size: 2vw;
+}
+
+.title1 {
+    color: teal;
+}
+
